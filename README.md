@@ -7,4 +7,4 @@ How to use:
 4.Test the extension on various pages to ensure it's working correctly.
 
 Screenshot
-[plot](./screenshot.png)
+![demo_interface](./screenshot.png)
