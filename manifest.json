@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Dashboard Countdown",
+    "version": "1.0",
+    "permissions": [
+      "https://waitlist-api.prod.blast.io/*"
+    ],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "browser_action": {
+      "default_icon": "icon.png"
+    }
+  }
+  
